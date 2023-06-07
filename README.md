@@ -13,7 +13,7 @@ This repository contains a collection of wordlists for various purposes. These w
 
 1. Clone the repository to your local machine using the following command:
    ```
-   git clone https://github.com/your-username/wordlist-project.git
+   git clone https://github.com/hydrokin/WORDLIST.git
    ```
 
 2. Explore the different wordlists available in the repository. Each wordlist is stored in a separate file.
